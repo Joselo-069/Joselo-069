@@ -78,10 +78,10 @@ Si está buscando un desarrollador Fullstack apasionado para su próximo proyect
 <br/>  
 
   
-
+<!-- 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Joselo-069&&style=flat-square)  
   
 
-<br/>  
+<br/>   -->
