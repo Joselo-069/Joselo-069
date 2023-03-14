@@ -85,9 +85,3 @@ Si está buscando un desarrollador Fullstack apasionado para su próximo proyect
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
