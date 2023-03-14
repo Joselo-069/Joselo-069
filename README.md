@@ -36,22 +36,7 @@ Si está buscando un desarrollador Fullstack apasionado para su próximo proyect
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
+## Lenguajes y Herramientas 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
@@ -78,7 +63,8 @@ Si está buscando un desarrollador Fullstack apasionado para su próximo proyect
 <br/>  
 
 
-## Github Stats  
+## Estadísticas de Github
+ 
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Joselo-069&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
