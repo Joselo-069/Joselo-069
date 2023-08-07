@@ -1,4 +1,4 @@
-## Hola 👋, me llamo Gonzalo Pineda  
+## Hola 👋, me llamo Gonzalo  
   
 
 Soy un <b> Fullstack Web Development  </b> y estoy orientado en el desarrollo de <b>aplicaciones web de calidad</b>. Como <b> Fullstack Web Development  </b>, tengo experiencia tanto en la creación del backend de una aplicación como en la programación del frontend. 
