@@ -1,8 +1,5 @@
 ## Hola 👋, me llamo Gonzalo  
   
-
-Soy un <b> Fullstack Web Development  </b> y estoy orientado en el desarrollo de <b>aplicaciones web de calidad</b>. Como <b> Fullstack Web Development  </b>, tengo experiencia tanto en la creación del backend de una aplicación como en la programación del frontend. 
-
 Soy desarrollador de software, me especializo en la creación de aplicaciones del lado del servidor (backend) con tecnologias orientadas como Java | Spring Boot, PHP | Laravel y Node.js | Next.js.
 He liderado varios proyectos y he trabajado en colaboración con otros miembros del equipo para asegurar que los proyectos se entreguen en el plazo establecido y con los estándares de calidad.
 Si estás buscando un desarrollador apasionado, no dude en ponerse en contacto. Estoy emocionado de trabajar juntos y alcanzar sus objetivos tecnológicos.
@@ -10,17 +7,10 @@ Si estás buscando un desarrollador apasionado, no dude en ponerse en contacto. 
   
 
 
-
 ### Mis redes sociales  
 <div align="center">
 <a href="https://github.com/Joselo-069" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/gonz22alo" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/gonzalo-pineda-b1598b254" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
