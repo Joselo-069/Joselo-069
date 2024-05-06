@@ -3,15 +3,9 @@
 
 Soy un <b> Fullstack Web Development  </b> y estoy orientado en el desarrollo de <b>aplicaciones web de calidad</b>. Como <b> Fullstack Web Development  </b>, tengo experiencia tanto en la creación del backend de una aplicación como en la programación del frontend. 
 
-Actualmente me dedico a desarrollar proyectos como<b> Fullstack Web Development</b>, con la finalidad de <b>aprender nuevas tecnologías y en mejorar mis habilidades existentes</b>  para mantenerme al día con las últimas tendencias en el desarrollo web. 
-
-Me encanta trabajar con tecnologías modernas para brindar propuestas originales y soluciones a los nuevos problemas que se presenten a las empresas.
-
-He <b> liderado</b>  varios proyectos y he trabajado en <b> colaboración con otros miembros del equipo</b>  para asegurar que los proyectos se entreguen en el plazo establecido y con los estándares de calidad. 
-
-Si está buscando un desarrollador Fullstack apasionado para su próximo proyecto, no dude en ponerse en contacto conmigo. Estoy emocionado de trabajar juntos y ayudarlo a alcanzar sus objetivos tecnológicos.
-
-
+Soy desarrollador de software, me especializo en la creación de aplicaciones del lado del servidor (backend) con tecnologias orientadas como Java | Spring Boot, PHP | Laravel y Node.js | Next.js.
+He liderado varios proyectos y he trabajado en colaboración con otros miembros del equipo para asegurar que los proyectos se entreguen en el plazo establecido y con los estándares de calidad.
+Si estás buscando un desarrollador apasionado, no dude en ponerse en contacto. Estoy emocionado de trabajar juntos y alcanzar sus objetivos tecnológicos.
   
   
 
