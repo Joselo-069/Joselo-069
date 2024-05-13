@@ -1,6 +1,6 @@
 ## Hola 👋, me llamo Gonzalo  
   
-Soy desarrollador de software, me especializo en la creación de aplicaciones del lado del servidor (backend) con tecnologias orientadas como Java | Spring Boot, PHP | Laravel y Node.js | Next.js.
+Soy desarrollador de software, me especializo en la creación de aplicaciones del lado del servidor (backend) con tecnologias orientadas como Java | Spring Boot, PHP | Laravel y Node.js | Express.js.
 He liderado varios proyectos y he trabajado en colaboración con otros miembros del equipo para asegurar que los proyectos se entreguen en el plazo establecido y con los estándares de calidad.
 Si estás buscando un desarrollador apasionado, no dude en ponerse en contacto. Estoy emocionado de trabajar juntos y alcanzar sus objetivos tecnológicos.
   
